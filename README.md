@@ -1,16 +1,35 @@
-### Hi there 👋
+# Alberto Basalo
+Programador e instructor de programadores.
 
-<!--
-**AlbertoBasalo/albertobasalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Repositorios
 
-Here are some ideas to get you started:
+### [Atomic Builders](https://github.com/AtomicBuilders)
+Proyectos JS y TS mínimos _(atómicos)_ para usar como semillas. Configurados con Prettier, JSLint, Jest...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Angular Builders](https://github.com/angularbuilders)
+Proyectos Angular para usar como semillas o ejemplos
+
+### [Academia Binaria](https://github.com/AcademiaBinaria)
+Proyectos usados en cursos de Angular
+
+### [Laboratorios BitAdemy](https://github.com/LabsAdemy)
+Proyectos usados en cursos de Angular fundamentales de código limpio, testing...
+
+## Proyectos educativos
+
+### [BitAdemy](https://bitademy.com)
+Tutoriales y cursos on line para programadores.
+
+### [Academia Binaria](https://academia-binaria.com)
+Formación especializada en Angular
+
+### Colaboraciones
+
+- [EscuelaIT](https://escuela.it/teacher/alberto-basalo)
+- [TrainingIT](https://trainingit.es/)
+- [Vitae](http://www.vitaedigital.com/)
+
+## Redes sociales
+
+- [Twitter](https://twitter.com/albertobasalo)
+- [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
