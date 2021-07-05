@@ -1,5 +1,15 @@
 # Alberto Basalo
-Consultor e instructor de programadores.
+
+> Consultor e instructor de programadores.
+
+Puedo ayudarte con:
+
+- Arquitectura de software
+
+- Técnicas de código limpio y patrones de diseño
+
+- Pruebas de software y TDD
+
 
 ## Organizaciones de repositorios
 
@@ -21,6 +31,6 @@ Consultor e instructor de programadores.
 
 - [EscuelaIT](https://escuela.it/teacher/alberto-basalo) - [TrainingIT](https://trainingit.es/) - [Vitae](http://www.vitaedigital.com/)
 
-## Redes sociales
+## Redes sociales y contacto
 
 - [Twitter](https://twitter.com/albertobasalo) - [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
