@@ -1,19 +1,19 @@
 # Alberto Basalo
-Programador e instructor de programadores.
+Consultor e instructor de programadores.
 
-## Repositorios
+## Organizaciones de repositorios
 
 #### [Atomic Builders](https://github.com/AtomicBuilders) Proyectos JS y TS mínimos _(atómicos)_ para usar como semillas. Configurados con Prettier, JSLint, Jest...
 
-#### [Angular Builders](https://github.com/angularbuilders) Proyectos Angular para usar como semillas o ejemplos
+#### [Angular Builders](https://github.com/angularbuilders) Proyectos Angular para usar como semillas o ejemplos en cursos.
 
-#### [Academia Binaria](https://github.com/AcademiaBinaria) Proyectos usados en cursos de Angular
+#### [Laboratorios BitAdemy](https://github.com/LabsAdemy) Proyectos usados en cursos de de código limpio, testing...
 
-#### [Laboratorios BitAdemy](https://github.com/LabsAdemy) Proyectos usados en cursos de Angular fundamentales de código limpio, testing...
+#### [Academia Binaria](https://github.com/AcademiaBinaria) Proyectos _antiguos usados en cursos de versiones antiguas_ de Angular.
 
 ## Proyectos educativos
 
-#### [BitAdemy](https://bitademy.com) Tutoriales y cursos on line para programadores.
+#### [BitAdemy](https://www.bitademy.com) Tutoriales y cursos on line para programadores.
 
 #### [Academia Binaria](https://academia-binaria.com) Formación especializada en Angular
 
