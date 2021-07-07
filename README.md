@@ -1,6 +1,6 @@
 # Alberto Basalo
 
-> Consultor e instructor de programadores.
+> **Consultor e instructor de programadores.**
 
 Puedo ayudarte con:
 
