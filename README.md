@@ -17,23 +17,18 @@ Puedo ayudarte con:
 
 #### [Angular Builders](https://github.com/angularbuilders) Proyectos Angular para usar como semillas o ejemplos en cursos.
 
-#### [Atomic Builders](https://github.com/AtomicBuilders) Proyectos JS y TS mínimos _(atómicos)_ para usar como semillas. Configurados con Prettier, JSLint, Jest...
+#### [Atomic Builders](https://github.com/AtomicBuilders) Proyectos mínimos _(atómicos)_ para usar como laboratorios o semillas.
 
 #### [Laboratorios BitAdemy](https://github.com/LabsAdemy) Proyectos usados en cursos de de código limpio, testing...
 
-#### [Academia Binaria](https://github.com/AcademiaBinaria) Proyectos _antiguos_ usados en cursos de versiones _antiguas_ de Angular.
-
-## Proyectos educativos propios
-
-#### [BitAdemy](https://www.bitademy.com) Tutoriales y cursos on line para programadores.
-
-#### [Academia Binaria](https://academia-binaria.com) Formación especializada en Angular
+#### [Academia Binaria](https://github.com/AcademiaBinaria) ARCHIVED: Proyectos _antiguos_ usados en cursos de versiones _antiguas_ de Angular.
 
 ### Colaboraciones con Academias on line
 
 - [EscuelaIT](https://escuela.it/teacher/alberto-basalo) 
 - [TrainingIT](https://trainingit.es/) 
 - [Vitae](http://www.vitaedigital.com/)
+- [Cas Training](https://cas-training.com/)
 
 ## Redes sociales y contacto
 
