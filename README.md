@@ -1,8 +1,12 @@
-# Alberto Basalo
+<header >
+  <h1 align="center"><b>Hola, soy Alberto Basalo</h1>
+<p align="center"> Consultor e instructor de programadores</p>
+<p align="center">
+  <a href=https://twitter.com/albertobasalo"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40albertobasalo&style=social&url=https%3A%2F%2Ftwitter.com%2Falbertobasalo"></a>
+</p>
+</header>
 
-> **Consultor e instructor de programadores.**
-
-Puedo ayudarte con:
+## Puedo ayudarte con:
 
 - Arquitectura de software
 
@@ -11,11 +15,6 @@ Puedo ayudarte con:
 - Pruebas de software y TDD
 
 - Desarrollo con Angular
-
-## Redes sociales y contacto
-
-- [Twitter](https://twitter.com/albertobasalo) 
-- [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 
 ## Organizaciones y repositorios
 
@@ -35,5 +34,8 @@ Puedo ayudarte con:
 - [TrainingIT](https://trainingit.es/) 
 - [Vitae](http://www.vitaedigital.com/)
 
+## Redes sociales y contacto
 
+- [Twitter](https://twitter.com/albertobasalo) 
+- [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 
