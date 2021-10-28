@@ -12,6 +12,10 @@ Puedo ayudarte con:
 
 - Desarrollo con Angular
 
+## Redes sociales y contacto
+
+- [Twitter](https://twitter.com/albertobasalo) 
+- [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 
 ## Organizaciones y repositorios
 
@@ -25,12 +29,11 @@ Puedo ayudarte con:
 
 ### Colaboraciones con Academias on line
 
+- [Cas Training](https://cas-training.com/)
 - [EscuelaIT](https://escuela.it/teacher/alberto-basalo) 
+- [Miriadax](https://formacion.miriadax.net/curso/taller-practico-especializado-pruebas-e2e-avanzadas-con-cypress/)
 - [TrainingIT](https://trainingit.es/) 
 - [Vitae](http://www.vitaedigital.com/)
-- [Cas Training](https://cas-training.com/)
 
-## Redes sociales y contacto
 
-- [Twitter](https://twitter.com/albertobasalo) 
-- [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+
