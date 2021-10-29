@@ -26,8 +26,7 @@
 
 #### [Academia Binaria](https://github.com/AcademiaBinaria) ARCHIVED: Proyectos _antiguos_ usados en cursos de versiones _antiguas_ de Angular.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertobasalo&layout=compact)](https://github.com/albertobasalo)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertobasalo)](https://github.com/albertobasalo)
 
 ### Colaboraciones con Academias on line
 
