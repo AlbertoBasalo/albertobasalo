@@ -48,4 +48,5 @@
 
 - [Twitter](https://twitter.com/albertobasalo)
 - [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+- [**Actual Builders** Newsletter](https://www.getrevue.co/profile/albertobasalo)
 
