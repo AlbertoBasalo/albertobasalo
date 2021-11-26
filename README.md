@@ -30,7 +30,7 @@
 
 #### Proyectos usados como laboratorio en cursos de código limpio, testing...
 
-### [Academia Binaria](https://github.com/AcademiaBinaria) 
+### [_Academia Binaria_](https://github.com/AcademiaBinaria) 
 
 #### _ARCHIVED_ Proyectos _antiguos_ usados en cursos de versiones _antiguas_ de Angular.
 
