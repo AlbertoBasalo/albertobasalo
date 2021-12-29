@@ -1,6 +1,6 @@
 <header>
   <h1 align="center">Hello,  I am Alberto Basalo</h1>
-  <p align="center">Advisor and developers instructor.</p>
+  <p align="center">Advisor and instructor for developers and teams.</p>
   <p align="center">
     <a href=https://twitter.com/albertobasalo"><img alt="@albertobasalo" src="https://img.shields.io/twitter/url?label=%40albertobasalo&style=social&url=https%3A%2F%2Ftwitter.com%2Falbertobasalo"></a>
   </p>
@@ -21,7 +21,7 @@
 
 ## Organizations and repositories
 
-### [Astro Bookings](https://github.com/AstroBookings) 
+### [🚀 Astro Bookings](https://github.com/AstroBookings) 
 
 #### Building in public a real world complex solution, from requiremnts to deployment.
 
@@ -51,8 +51,8 @@
 
 ## Social networks, contact, newsletters.
 
-- [Twitter](https://twitter.com/albertobasalo)
-- [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
-- [Medium](https://medium.com/@albertobasalo)
-- [**Astro Bookings Community Development** Newsletter](https://www.getrevue.co/profile/albertobasalo)
+- [🐦 Twitter](https://twitter.com/albertobasalo)
+- [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+- [📗 Medium](https://albertobasalo.medium.com/)
+- [🚀 **Astro Bookings Community Development** Newsletter](https://www.getrevue.co/profile/albertobasalo)
 
