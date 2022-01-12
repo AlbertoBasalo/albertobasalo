@@ -8,13 +8,13 @@
 
 ## I can help you with:
 
-- Software architecture
+### 🏗️ Software architecture 
 
-- Clean code techniques and design patterns
+### 🍋 Clean code techniques and design patterns 
 
-- Software testing and TDD
+### ✅ Software testing and TDD 
 
-- Coding with Angular and Node
+### 🖥️ Coding with 🅰️ Angular and 🟩 Node
 
 ---
 
