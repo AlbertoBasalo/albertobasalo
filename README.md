@@ -2,7 +2,7 @@
   <h1 align="center">Hello,  I am Alberto Basalo</h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
   <p align="center">
-    <a href=https://twitter.com/albertobasalo"><img alt="@albertobasalo" src="https://img.shields.io/twitter/url?label=%40albertobasalo&style=social&url=https%3A%2F%2Ftwitter.com%2Falbertobasalo"></a>
+   <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
   </p>
 </header>
 
@@ -16,8 +16,17 @@
 
 - Coding with Angular and Node
 
+---
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertobasalo)](https://github.com/albertobasalo)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertobasalo)](https://github.com/albertobasalo)
+
+<p align="left">   
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=albertobasalo" alt="albertobasalo" />
+  </a> 
+</p>
 
 ## Organizations and repositories
 
