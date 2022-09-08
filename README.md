@@ -7,7 +7,7 @@
   </p>
 </header>
 
-## I can help you with:
+## I can help you write better code with:
 
 ### 🏗️ Software architecture
 
