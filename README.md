@@ -46,27 +46,6 @@
   </a>
 </p>
 
-## Organizations and repositories
-
-### [🚀 Astro Bookings](https://github.com/AstroBookings)
-
-#### Building in public a real world complex solution, from requiremnts to deployment.
-
-### [Angular Builders](https://github.com/angularbuilders)
-
-#### A Catalog of resources for Angular developers
-
-### [Atomic Builders](https://github.com/AtomicBuilders)
-
-#### Minimal _(atomic)_ projects to be used as seeds or demos on Clean code, TDD... workshops and talks.
-
-### [Academy Laboratories](https://github.com/LabsAdemy)
-
-#### Lab projects used on my courses and workshops
-
-### [_Academia Binaria_](https://github.com/AcademiaBinaria)
-
-#### _ARCHIVED_ Proyectos _antiguos_ usados en cursos de versiones _antiguas_ de Angular.
 
 ## Colaboraciones con Academias on line (en Español)
 
