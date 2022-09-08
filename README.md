@@ -1,4 +1,4 @@
-[![Social banner for Alberto Basalo](https://github.com/albertobasalo/albertobasalo/raw/master/banner.png)](https://albertobasalo.notion.site/)
+[![Social banner for Alberto Basalo](https://blog.albertobasalo.dev/?source=user_profile)](https://albertobasalo.dev/)
 <header>
   <h1 align="center">Hello,  I am Alberto Basalo</h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
