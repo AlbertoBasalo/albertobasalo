@@ -1,4 +1,4 @@
-[![Social banner for Alberto Basalo](https://github.com.albertobasalo/a-better-code.png)](https://albertobasalo.dev/)
+[![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/a-better-code.png)](https://albertobasalo.dev/)
 <header>
   <h1 align="center">Hello,  I am Alberto Basalo</h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
