@@ -1,4 +1,3 @@
-[![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/a-better-code.png)](https://albertobasalo.dev/)
 <header>
   <h1 align="center">Hello,  I am Alberto Basalo</h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
@@ -6,6 +5,8 @@
    <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
   </p>
 </header>
+
+[![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/A%20Better%20Code.png)](https://albertobasalo.dev/)
 
 ## I can help you write better code with:
 
