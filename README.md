@@ -10,18 +10,24 @@
 
 ## I can help you write better code with:
 
-### 🏗️ Software architecture
-
 ### 🍋 Clean code techniques and design patterns
 
-### ✅ Software testing and TDD
+### ✅ Unit and integration testing
 
-### 🖥️ Coding with 🅰️ Angular and 🟩 Node
+### 🏗️ Software architecture
 
-## [Get in contact](https://albertobasalo.dev/)
+### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node
+
+## Social networks, contact, newsletters.
+
+- [🐦 Twitter](https://twitter.com/albertobasalo)
+- [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+- [📗 Medium](https://albertobasalo.medium.com/)
+- [📖 Blog tutorials](https://blog.albertobasalo.dev/) 
+- [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
+- [📧 Alberto Basalo Newsletter](https://www.getrevue.co/profile/albertobasalo)
 
 ---
-
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -58,10 +64,5 @@
 #### [TrainingIT](https://trainingit.es/)
 #### [Vitae](http://www.vitaedigital.com/)
 
-## Social networks, contact, newsletters.
 
-- [🐦 Twitter](https://twitter.com/albertobasalo)
-- [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
-- [📗 Medium](https://albertobasalo.medium.com/)
-- [🚀 **Astro Bookings Community Development** Newsletter](https://www.getrevue.co/profile/albertobasalo)
 
