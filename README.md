@@ -18,12 +18,12 @@
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node
 
-## Featured rpositrories
+## Featured repositories
 
-### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
-### [🅰️Angular🌱Small🧫Lab](https://github.com/AlbertoBasalo/angular-small-lab)
-### [🅰️ Angular ℹ️ introduction 🧑🏼‍🏫 course](https://github.com/AlbertoBasalo/angular_intro)
-### [🅰️ Angular💯 Advanced 🧑🏼‍🏫 Course](https://github.com/AlbertoBasalo/angular_advanced)
+- [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
+- [🅰️Angular🌱Small🧫Lab](https://github.com/AlbertoBasalo/angular-small-lab)
+- [🅰️ Angular ℹ️ introduction 🧑🏼‍🏫 course](https://github.com/AlbertoBasalo/angular_intro)
+- [🅰️ Angular💯 Advanced 🧑🏼‍🏫 Course](https://github.com/AlbertoBasalo/angular_advanced)
 
 
 ## Social networks, contact, newsletters.
