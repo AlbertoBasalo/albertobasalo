@@ -72,7 +72,7 @@
 #### [EscuelaIT](https://escuela.it/teacher/alberto-basalo)
 #### [Miriadax](https://formacion.miriadax.net/curso/taller-practico-especializado-pruebas-e2e-avanzadas-con-cypress/)
 #### [TrainingIT](https://trainingit.es/)
-#### [Vitae](http://www.vitaedigital.com/)
+
 
 
 
