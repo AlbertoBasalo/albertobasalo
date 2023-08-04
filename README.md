@@ -6,7 +6,7 @@
   </p>
 </header>
 
-[![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/Banner-Alberto_Basalo.png)](https://albertobasalo.dev/)
+[![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/The_code_cleaner-removebg-preview.png)](https://albertobasalo.dev/)
 
 ## I can help you write better code with:
 
