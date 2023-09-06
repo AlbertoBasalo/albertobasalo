@@ -8,7 +8,7 @@
 
 ![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
 
-## I can help you write better code with:
+## 📧 Get in [contact](https://albertobasalo.dev/#contact) I can help you write better code with:
 
 ### 🍋 Clean code techniques and design patterns
 
@@ -18,7 +18,6 @@
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node
 
-## 📧 Get in [contact](https://albertobasalo.dev/#contact) 
 
 ## Featured organizations and repositories
 
