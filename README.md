@@ -6,7 +6,7 @@
   </p>
 </header>
 
-[![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)](https://albertobasalo.dev/)
+![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
 
 ## I can help you write better code with:
 
