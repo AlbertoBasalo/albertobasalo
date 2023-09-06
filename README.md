@@ -20,7 +20,7 @@
 
 ## Social networks, contact, newsletters.
 
-- [🐦 Twitter X](https://twitter.com/albertobasalo)
+- [✖️ **X** Twitter](https://twitter.com/albertobasalo)
 - [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 - [📗 Medium](https://albertobasalo.medium.com/)
 - [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
