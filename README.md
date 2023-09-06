@@ -1,12 +1,12 @@
 <header>
-  <h1 align="center">Hello,  I am <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a><</h1>
+  <h1 align="center">Hello,  I am <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a></h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
   <p align="center">
    <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
   </p>
 </header>
 
-![Write a better code with Alberto Basalo](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
+![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
 
 ## 📧 Get in [contact](https://albertobasalo.dev/#contact) I can help you write better code with:
 
@@ -18,6 +18,12 @@
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node
 
+## Social networks, contact, newsletters.
+
+- [🐦 Twitter X](https://twitter.com/albertobasalo)
+- [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+- [📗 Medium](https://albertobasalo.medium.com/)
+- [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
 
 ## Featured organizations and repositories
 
@@ -27,16 +33,6 @@
 - [🅰️ Angular ℹ️ introduction 🧑🏼‍🏫 course](https://github.com/AlbertoBasalo/angular_intro)
 - [🅰️ Angular💯 Advanced 🧑🏼‍🏫 Course](https://github.com/AlbertoBasalo/angular_advanced)
 - [🅰️ Angular 1️⃣6️⃣](https://github.com/albertobasalo/ng16)
-
-
-## Social networks, contact, newsletters.
-
-- [🐦 Twitter](https://twitter.com/albertobasalo)
-- [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
-- [📗 Medium](https://albertobasalo.medium.com/)
-- [📖 Blog tutorials](https://blog.albertobasalo.dev/) 
-- [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
-- [📧 Alberto Basalo Newsletter](https://www.getrevue.co/profile/albertobasalo)
 
 ---
 
@@ -73,6 +69,7 @@
 #### [EscuelaIT](https://escuela.it/teacher/alberto-basalo)
 #### [Miriadax](https://formacion.miriadax.net/curso/taller-practico-especializado-pruebas-e2e-avanzadas-con-cypress/)
 #### [TrainingIT](https://trainingit.es/)
+#### [Vitae](https://www.vitaedigital.com/)
 
 
 
