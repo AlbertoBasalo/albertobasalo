@@ -1,5 +1,5 @@
 <header>
-  <h1 align="center">Hello,  I am Alberto Basalo</h1>
+  <h1 align="center">Hello,  I am <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a><</h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
   <p align="center">
    <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
@@ -12,11 +12,13 @@
 
 ### 🍋 Clean code techniques and design patterns
 
-### ✅ Unit and integration testing
+### ✅ Unit and integration testing ( 🧪 Jest and  🌲Cypress)
 
 ### 🏗️ Software architecture
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node
+
+## 📧 Get in [contact](https://albertobasalo.dev/#contact) 
 
 ## Featured organizations and repositories
 
