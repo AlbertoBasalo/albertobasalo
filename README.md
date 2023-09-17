@@ -2,7 +2,8 @@
   <h1 align="center">Hello,  I am <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a></h1>
   <p align="center">Advisor and instructor for developers and teams.</p>
   <p align="center">
-   <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo" /></a>
+   <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
+   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=albertobasalo" target="_blank"><img src="https://img.shields.io/badge/contacto-LinkedIn-blue?style=for-the-badge" alt="albertobasalo-linkedin" /></a>
   </p>
 </header>
 
