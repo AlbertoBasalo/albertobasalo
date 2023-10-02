@@ -28,7 +28,7 @@
 
 ## Featured organizations and repositories
 
-- [🧑🏼‍🏫 Classroom 🧫 Labs](https://github.com/classroomLabs/)
+- [🧑🏼‍🏫 Classroom 🧫 Labs](https://github.com/AlbertoBasaloLabs/)
 - [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 - [🅰️Angular🌱Small🧫Lab](https://github.com/AlbertoBasalo/angular-small-lab)
 - [🅰️ Angular ℹ️ introduction 🧑🏼‍🏫 course](https://github.com/AlbertoBasalo/angular_intro)
