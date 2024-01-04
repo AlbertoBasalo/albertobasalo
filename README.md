@@ -9,31 +9,38 @@
 
 ![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
 
+> [!NOTE]
+> You can hire me as a consultant or instructor.
+
 ## 📧 Get in [contact](https://albertobasalo.dev/#contact) I can help you write better code with:
 
-### 🍋 Clean code techniques and design patterns
+### 🍋 Clean code techniques and design patterns.
 
-### ✅ Unit and integration testing ( 🧪 Jest and  🌲Cypress)
+### ✅ Unit and integration testing ( 🧪 Jest and 🌲Cypress).
 
-### 🏗️ Software architecture
+### 🏗️ Software architecture advice.
 
-### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node
+### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node.
 
 ## Social networks, contact, newsletters.
 
 - [✖️ **X** Twitter](https://twitter.com/albertobasalo)
 - [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 - [📗 Medium](https://albertobasalo.medium.com/)
+- [✍🏼 Notion](https://albertobasalo.notion.site/)
 - [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
 
-## Featured organizations and repositories
+## Featured repositories
 
 - [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 - [🧑🏼‍🏫 Classroom 🧫 Labs](https://github.com/AlbertoBasaloLabs/)
-- [🅰️Angular🌱Small🧫Lab](https://github.com/AlbertoBasalo/angular-small-lab)
-- [🅰️ Angular ℹ️ introduction 🧑🏼‍🏫 course](https://github.com/AlbertoBasalo/angular_intro)
-- [🅰️ Angular💯 Advanced 🧑🏼‍🏫 Course](https://github.com/AlbertoBasalo/angular_advanced)
-- [🅰️ Angular 1️⃣6️⃣](https://github.com/albertobasalo/ng16)
+- [🅰️ Angular](https://github.com/AlbertoBasalo/ng-lab)
+- [🅰️ Angular 🐬 Nx Monorepo](https://github.com/AlbertoBasalo/nx-lab)
+- [🌲 Cypress](https://github.com/AlbertoBasalo/cy-lab)
+
+## 🧑🏼‍🎓 Cursos en Español
+
+### [📚 Catálogo de cursos](https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051)
 
 ---
 
@@ -63,15 +70,19 @@
   </a>
 </p>
 
+---
 
-## Colaboraciones con Academias on line (en Español)
-
-#### [Cas Training](https://cas-training.com/)
-#### [EscuelaIT](https://escuela.it/teacher/alberto-basalo)
-#### [Miriadax](https://formacion.miriadax.net/curso/taller-practico-especializado-pruebas-e2e-avanzadas-con-cypress/)
-#### [TrainingIT](https://trainingit.es/)
-#### [Vitae](https://www.vitaedigital.com/)
-
-
-
-
+<footer>
+  <h3>🧑🏼‍💻 By <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a> </h3>
+  <p>
+    <a href="https://twitter.com/albertobasalo" target="blank">
+      <img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="twitter albertobasalo" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/albertobasalo" target="blank">
+      <img 
+        src="https://img.shields.io/github/followers/albertobasalo?logo=github&label=profile albertobasalo&style=for-the-badge" alt="git albertobasalo" />
+    </a>
+  </p>
+</footer>
