@@ -1,8 +1,8 @@
 <header>
-  <h1 align="center"><a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a></h1>
-  <p align="center">Advisor and <a href="https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051" target="blank">instructor</a> for developers and teams.</p>
+  <h1 align="center"><a href="https://albertobasalo.dev" target="_blank">Alberto Basalo</a></h1>
+  <p align="center">Advisor and <a href="https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051" target="_blank">instructor</a> for developers and teams.</p>
   <p align="center">
-   <a href="https://twitter.com/albertobasalo" target="blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
+   <a href="https://twitter.com/albertobasalo" target="_blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=albertobasalo" target="_blank"><img src="https://img.shields.io/badge/contacto-LinkedIn-blue?style=for-the-badge" alt="albertobasalo-linkedin" /></a>
   </p>
 </header>
@@ -79,14 +79,14 @@
 ---
 
 <footer>
-  <h3>🧑🏼‍💻 By <a href="https://albertobasalo.dev" target="blank">Alberto Basalo</a> </h3>
+  <h3>🧑🏼‍💻 By <a href="https://albertobasalo.dev" target="_blank">Alberto Basalo</a> </h3>
   <p>
-    <a href="https://twitter.com/albertobasalo" target="blank">
+    <a href="https://twitter.com/albertobasalo" target="_blank">
       <img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="twitter albertobasalo" />
     </a>
   </p>
   <p>
-    <a href="https://github.com/albertobasalo" target="blank">
+    <a href="https://github.com/albertobasalo" target="_blank">
       <img 
         src="https://img.shields.io/github/followers/albertobasalo?logo=github&label=profile albertobasalo&style=for-the-badge" alt="git albertobasalo" />
     </a>
