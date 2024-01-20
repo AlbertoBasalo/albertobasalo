@@ -32,11 +32,11 @@
 
 ## Featured repositories
 
-### [🅰️ Angular Laboratory](https://github.com/AlbertoBasalo/ng###lab)
+### [🅰️ Angular Laboratory](https://github.com/AlbertoBasalo/ng-lab)
 
-### [🅰️ Angular 🐬 Nx Monorepo Laboratory](https://github.com/AlbertoBasalo/nx###lab)
+### [🅰️ Angular 🐬 Nx Monorepo Laboratory](https://github.com/AlbertoBasalo/nx-lab)
 
-### [🌲 Cypress Laboratory](https://github.com/AlbertoBasalo/cy###lab)
+### [🌲 Cypress Laboratory](https://github.com/AlbertoBasalo/cy-lab)
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
