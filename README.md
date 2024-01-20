@@ -38,6 +38,8 @@
 
 ### [🌲 Cypress Laboratory](https://github.com/AlbertoBasalo/cy-lab)
 
+### [🦀 Rust Laboratory](https://github.com/AlbertoBasalo/rs-lab)
+
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
 ### [🧑🏼‍🏫 Workshop Classroom 🧫 Labs](https://github.com/AlbertoBasaloLabs/)
