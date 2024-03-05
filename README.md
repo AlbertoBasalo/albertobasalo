@@ -32,7 +32,7 @@
 
 ## Featured repositories
 
-### [🧑🏼‍🏫 Workshop Classroom 🧫 Labs]([https://github.com/AlbertoBasaloLabs/](https://github.com/CursosAlbertoBasalo))
+### [🧑🏼‍🏫 Workshop Classroom 🧫 Samples](https://github.com/CursosAlbertoBasalo)
 
 ### [🅰️ Angular Modern (v17) Laboratory](https://github.com/AlbertoBasalo/ng-lab)
 
