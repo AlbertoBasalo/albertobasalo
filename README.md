@@ -10,7 +10,7 @@
 ![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
 
 > [!NOTE]
-> You can hire me as a consultant or instructor.
+> You can hire me as a consultant or [instructor](https://github.com/CursosAlbertoBasalo).
 
 ## 📧 Get in [contact](https://albertobasalo.dev/#contact) I can help you write better code with:
 
@@ -32,7 +32,11 @@
 
 ## Featured repositories
 
-### [🅰️ Angular Laboratory](https://github.com/AlbertoBasalo/ng-lab)
+### [🧑🏼‍🏫 Workshop Classroom 🧫 Labs]([https://github.com/AlbertoBasaloLabs/](https://github.com/CursosAlbertoBasalo))
+
+### [🅰️ Angular Modern (v17) Laboratory](https://github.com/AlbertoBasalo/ng-lab)
+
+### [🅰️ Angular Classic (v15) Laboratory](https://github.com/AlbertoBasalo/nc-lab)
 
 ### [🅰️ Angular 🐬 Nx Monorepo Laboratory](https://github.com/AlbertoBasalo/nx-lab)
 
@@ -41,8 +45,6 @@
 ### [🦀 Rust Laboratory](https://github.com/AlbertoBasalo/rs-lab)
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
-
-### [🧑🏼‍🏫 Workshop Classroom 🧫 Labs](https://github.com/AlbertoBasaloLabs/)
 
 ---
 
