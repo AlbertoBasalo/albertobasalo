@@ -9,25 +9,29 @@
 
 ![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png)
 
-## ⛑️ I can help and teach you to write better code with the following:
+# ⛑️ I can help you with the following:
 
 ### 🍋 Clean code techniques and design patterns.
 
 ### ✅ Unit and integration testing ( 🧪 Jest and 🌲Cypress).
 
-### 🏗️ Software architecture advice (DDD, MFE).
+### 🏗️ Software architecture advice ( 👔 DDD, 🧱 MFE).
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node.
 
-## 📧 Social networks, contact, blogs...
+# 📧 CONTACT: Social networks, webs, blogs...
 
-- [✖️ **X** / Twitter](https://twitter.com/albertobasalo)
-- [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
-- [📗 Medium](https://albertobasalo.medium.com/)
-- [✍🏼 Notion](https://albertobasalo.notion.site/)
-- [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
+### [✖️ **X** / Twitter](https://twitter.com/albertobasalo)
 
-## Featured repositories
+### [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
+
+### [📗 Medium](https://albertobasalo.medium.com/)
+
+### [✍🏼 Notion](https://albertobasalo.notion.site/)
+
+### [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
+
+# ©️ CODE: Featured repositories
 
 ### [🧑🏼‍🏫 Workshop Classroom Demos](https://github.com/CursosAlbertoBasalo)
 
@@ -43,7 +47,7 @@
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
-## 🧑🏼‍🎓 Cursos en Español
+# 🧑🏼‍🎓 CURSOS: Catálogo en Español
 
 ### [📚 Catálogo de cursos](https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051)
 
