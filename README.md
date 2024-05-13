@@ -19,6 +19,8 @@
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node.
 
+> 👇
+
 # 📧 CONTACT: Social networks, webs, blogs...
 
 ### [✖️ **X** / Twitter](https://twitter.com/albertobasalo)
@@ -31,15 +33,15 @@
 
 ### [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
 
+> 👇
+
 # ©️ CODE: Featured repositories
+
+### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
 ### [🧑🏼‍🏫 Workshop Classroom Demos](https://github.com/CursosAlbertoBasalo)
 
 ### [🅰️ Angular Modern (v17) 🧫 Laboratory](https://github.com/AlbertoBasalo/ng-lab)
-
-### [🅰️ Angular Classic (v15) 🧫 Laboratory](https://github.com/AlbertoBasalo/nc-lab)
-
-### [🅰️ Angular 🐬 Nx Monorepo Laboratory](https://github.com/AlbertoBasalo/nx-lab)
 
 ### [🌲 Cypress 🧫 Laboratory](https://github.com/AlbertoBasalo/cy-lab)
 
@@ -47,27 +49,29 @@
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
+> 👇
+
 # 🧑🏼‍🎓 CURSOS: Catálogo en Español
 
 ### [📚 Catálogo de cursos](https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051)
 
----
+> 👇
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nest" alt="nest" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="bun" alt="nest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 </p>
-
----
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertobasalo)](https://github.com/albertobasalo)
 
