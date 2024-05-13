@@ -7,7 +7,7 @@
   </p>
 </header>
 
-![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png)
+[![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png)](https://albertobasalo.dev/)
 
 # ⛑️ I can help you with the following:
 
