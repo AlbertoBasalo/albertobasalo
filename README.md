@@ -29,17 +29,17 @@
 
 ## Featured repositories
 
-### [🧑🏼‍🏫 Workshop Classroom 🧫 Samples](https://github.com/CursosAlbertoBasalo)
+### [🧑🏼‍🏫 Workshop Classroom Demos](https://github.com/CursosAlbertoBasalo)
 
-### [🅰️ Angular Modern (v17) Laboratory](https://github.com/AlbertoBasalo/ng-lab)
+### [🅰️ Angular Modern (v17) 🧫 Laboratory](https://github.com/AlbertoBasalo/ng-lab)
 
-### [🅰️ Angular Classic (v15) Laboratory](https://github.com/AlbertoBasalo/nc-lab)
+### [🅰️ Angular Classic (v15) 🧫 Laboratory](https://github.com/AlbertoBasalo/nc-lab)
 
 ### [🅰️ Angular 🐬 Nx Monorepo Laboratory](https://github.com/AlbertoBasalo/nx-lab)
 
-### [🌲 Cypress Laboratory](https://github.com/AlbertoBasalo/cy-lab)
+### [🌲 Cypress 🧫 Laboratory](https://github.com/AlbertoBasalo/cy-lab)
 
-### [🦀 Rust Laboratory](https://github.com/AlbertoBasalo/rs-lab)
+### [🦀 Rust 🧫 Laboratory](https://github.com/AlbertoBasalo/rs-lab)
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
