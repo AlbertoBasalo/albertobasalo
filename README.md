@@ -1,13 +1,14 @@
 <header>
   <h1 align="center"><a href="https://albertobasalo.dev" target="_blank">Alberto Basalo</a></h1>
-  <p align="center">Advisor and instructor for developers.</p>
+  <h3 align="center">Advisor and instructor for developers.</h3>
   <p align="center">
    <a href="https://twitter.com/albertobasalo" target="_blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=albertobasalo" target="_blank"><img src="https://img.shields.io/badge/contacto-LinkedIn-blue?style=for-the-badge" alt="albertobasalo-linkedin" /></a>
   </p>
+  <p align="center">
+    <a href="https://albertobasalo.dev/" target="_blank"><img src="https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png" alt="albertobasalo-linkedin" /></a>
+  </p>
 </header>
-
-[![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png)](https://albertobasalo.dev/)
 
 # ⛑️ I can help you with the following:
 
