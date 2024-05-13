@@ -19,7 +19,7 @@
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node.
 
-> 👇
+➖
 
 # 📧 CONTACT: Social networks, webs, blogs...
 
@@ -29,11 +29,15 @@
 
 ### [📗 Medium](https://albertobasalo.medium.com/)
 
-### [✍🏼 Notion](https://albertobasalo.notion.site/)
-
 ### [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
 
-> 👇
+➖
+
+# 🧑🏼‍🎓 CURSOS: Catálogo en Español
+
+### [📚 Catálogo de cursos](https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051)
+
+➖
 
 # ©️ CODE: Featured repositories
 
@@ -49,26 +53,21 @@
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
-> 👇
+➖
 
-# 🧑🏼‍🎓 CURSOS: Catálogo en Español
-
-### [📚 Catálogo de cursos](https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051)
-
-> 👇
-
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="bun" alt="nest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="bun" alt="nest" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 </p>
