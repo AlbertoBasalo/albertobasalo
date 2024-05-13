@@ -7,7 +7,7 @@
   </p>
 </header>
 
-![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/git-hub_banner.png)
+![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png)
 
 > [!NOTE]
 > You can hire me as a consultant or [instructor](https://github.com/CursosAlbertoBasalo).
