@@ -1,6 +1,6 @@
 <header>
   <h1 align="center"><a href="https://albertobasalo.dev" target="_blank">Alberto Basalo</a></h1>
-  <p align="center">Advisor and <a href="https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051" target="_blank">instructor</a> for developers and teams.</p>
+  <p align="center">Advisor and instructor for developers.</p>
   <p align="center">
    <a href="https://twitter.com/albertobasalo" target="_blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=albertobasalo" target="_blank"><img src="https://img.shields.io/badge/contacto-LinkedIn-blue?style=for-the-badge" alt="albertobasalo-linkedin" /></a>
@@ -9,22 +9,19 @@
 
 ![I can help you write clean code](https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png)
 
-> [!NOTE]
-> You can hire me as a consultant or [instructor](https://github.com/CursosAlbertoBasalo).
-
-## 📧 Get in [contact](https://albertobasalo.dev/#contact) I can help you write better code with:
+## ⛑️ I can help and teach you to write better code with the following:
 
 ### 🍋 Clean code techniques and design patterns.
 
 ### ✅ Unit and integration testing ( 🧪 Jest and 🌲Cypress).
 
-### 🏗️ Software architecture advice.
+### 🏗️ Software architecture advice (DDD, MFE).
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node.
 
-## Social networks, contact, newsletters.
+## 📧 Social networks, contact, blogs...
 
-- [✖️ **X** Twitter](https://twitter.com/albertobasalo)
+- [✖️ **X** / Twitter](https://twitter.com/albertobasalo)
 - [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 - [📗 Medium](https://albertobasalo.medium.com/)
 - [✍🏼 Notion](https://albertobasalo.notion.site/)
@@ -45,8 +42,6 @@
 ### [🦀 Rust Laboratory](https://github.com/AlbertoBasalo/rs-lab)
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
-
----
 
 ## 🧑🏼‍🎓 Cursos en Español
 
