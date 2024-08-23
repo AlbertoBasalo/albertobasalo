@@ -45,6 +45,8 @@
 
 ### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
+### [🚀 AstroBookings Full-stack Boot camp exercise ](https://github.com/astrobookings)
+
 ### [🧑🏼‍🏫 Workshop Classroom Demos](https://github.com/CursosAlbertoBasalo)
 
 ### [🅰️ Angular Modern (v17) 🧫 Laboratory](https://github.com/AlbertoBasalo/ng-lab)
