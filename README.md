@@ -21,6 +21,8 @@
 
 ### 🖥️ Coding skills with 🅰️ Angular and 🟩 Node.
 
+### 🤖 AI-Driven Development.
+
 ➖
 
 # 📧 CONTACT: Social networks, webs, blogs...
@@ -43,7 +45,7 @@
 
 # ©️ CODE: Featured repositories
 
-### [🤖 AI Drive Development](https://github.com/AlbertoBasalo/aidd)
+### [🤖 AI Driven Development](https://github.com/AlbertoBasalo/aidd)
 
 ### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
