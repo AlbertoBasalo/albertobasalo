@@ -43,6 +43,8 @@
 
 # ©️ CODE: Featured repositories
 
+### [🤖 AI Drive Development](https://github.com/AlbertoBasalo/aidd)
+
 ### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
 ### [🚀 AstroBookings Full-stack Boot camp exercise ](https://github.com/astrobookings)
