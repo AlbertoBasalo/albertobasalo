@@ -5,7 +5,6 @@
     <meta name="description" content="Alberto Basalo" />
     <link rel="icon" type="image/png" href="/logo_1.png" />
     <link rel="apple-touch-icon" href="/logo_1.png" />
-    <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="lime" />
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -17,7 +16,11 @@
     <title>Alberto Basalo</title>
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="{canonicalURL}" />
+    <link rel="canonical" href="https://albertobasalo.com" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
 
     <!-- Open Graph / Social Media Meta Tags -->
     <meta property="og:title" content="Alberto Basalo" />
@@ -25,10 +28,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://albertobasalo.com" />
     <meta property="og:site_name" content="Alberto Basalo" />
-    <meta
-      property="og:image"
-      content="https://aicode.academy/site-og-image.png"
-    />
+    <meta property="og:image" content="https://albertobasalo.com/logo_1.png" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -39,6 +39,24 @@
       name="twitter:image"
       content="https://aicode.academy/site-og-image.png?20250118"
     />
+    <style>
+      :root {
+        --pico-font-family: "Fira Mono", Consolas, monospace;
+        --pico-font-family-emoji: "Major Mono Display", Consolas, monospace;
+        --pico-font-family-sans-serif: Tomorrow, Roboto, Helvetica, Arial,
+          sans-serif;
+        --pico-font-family-monospace: "Fira Mono", Consolas, monospace;
+        --pico-border-radius: 0rem;
+      }
+
+      body {
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 3%;
+        padding-right: 3%;
+        font-family: var(--pico-font-family);
+      }
+    </style>
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -53,6 +71,18 @@
     </script>
   </head>
   <body>
-    <h1>Alberto Basalo</h1>
+    <article>
+      <h1>Alberto Basalo</h1>
+      <p>
+        <a href="https://albertobasalo.com">albertobasalo.com</a>
+      </p>
+      <footer>
+        <p>
+          <small>
+            <a href="https://x.com/albertobasalo">Twitter</a>
+          </small>
+        </p>
+      </footer>
+    </article>
   </body>
 </html>
