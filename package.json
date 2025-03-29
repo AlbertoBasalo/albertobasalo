@@ -1,10 +1,11 @@
 {
-  "name": "aicode-academy",
+  "name": "albertobasalo",
   "type": "module",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "",
+    "build": "echo 'Building...'",
     "update": "npm update --save && npm outdated",
     "master": "git checkout master && git merge blog",
     "deploy": "git checkout production && git merge master && git push origin production && git checkout master"
