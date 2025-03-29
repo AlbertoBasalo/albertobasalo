@@ -56,6 +56,41 @@
         padding-right: 3%;
         font-family: var(--pico-font-family);
       }
+
+      .center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      :root {
+        --ab-light-green: #00ff00;
+        --ab-green: #00aa00;
+        --ab-dark-green: #007700;
+        --ab-light-blue: #00ffff;
+        --ab-blue: #00aaff;
+        --ab-dark-blue: #0077ff;
+        --ab-white: #fff;
+        --ab-yellow: #fafa00;
+        --ab-red: #ff0000;
+        --ab-light-gray: #cccccc;
+        --ab-gray: #777777;
+        --ab-dark-gray: #333333;
+      }
+
+      .primary {
+        color: var(--pico-primary);
+      }
+
+      .comment {
+        color: var(--pico-secondary);
+        padding-right: 1rem;
+      }
+
+      .logo {
+        font-family: "Major Mono Display", monospace;
+      }
     </style>
 
     <!-- Structured Data -->
@@ -72,15 +107,14 @@
   </head>
   <body>
     <article>
-      <h1>Alberto Basalo</h1>
-      <p>
-        <a href="https://albertobasalo.com">albertobasalo.com</a>
-      </p>
+      <h1 class="logo">Alberto Basalo</h1>
+      <p>Improve your code with AI</p>
       <footer>
         <p>
-          <small>
-            <a href="https://x.com/albertobasalo">Twitter</a>
-          </small>
+          <a href="https://albertobasalo.com">albertobasalo.com</a>
+        </p>
+        <p>
+          <a href="https://x.com/albertobasalo">Twitter</a>
         </p>
       </footer>
     </article>
