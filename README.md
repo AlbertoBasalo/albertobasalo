@@ -7,7 +7,7 @@
    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=albertobasalo" target="_blank"><img src="https://img.shields.io/badge/contacto-LinkedIn-blue?style=for-the-badge" alt="albertobasalo-linkedin" /></a>
   </p>
   <p align="center">
-    <a href="https://albertobasalo.dev/" target="_blank"><img src="https://github.com/AlbertoBasalo/albertobasalo/raw/master/alberto_basalo_github.png" alt="albertobasalo-linkedin" /></a>
+    <a href="https://albertobasalo.dev/" target="_blank"><img src="https://github.com/AlbertoBasalo/albertobasalo/raw/master/logo_1.png" alt="albertobasalo-linkedin" /></a>
   </p>
 </header>
 
