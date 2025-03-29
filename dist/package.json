@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "",
+    "start": "echo 'Hello World'",
     "build": "echo 'Building...'",
     "update": "npm update --save && npm outdated",
     "master": "git checkout master && git merge blog",
