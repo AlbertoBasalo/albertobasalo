@@ -1,0 +1,112 @@
+---
+import Layout from "@layouts/Layout.astro";
+import BlinkCursor from "../components/BlinkCursor.astro";
+import MatrixText from "../components/MatrixText.astro";
+import Section from "../components/Section.astro";
+
+const FORMACION = {
+  layout: {
+    title: "Formación",
+    description: "La industria del software evoluciona como nunca; pero no es magIA, es tecnología.",
+  },
+  hero: {
+    title: "Formación",
+    subtitle: "La industria del software evoluciona como nunca; pero no es magIA, es tecnología.",
+    cta: {
+      text: "Learn to code smarter",
+      link: "https://www.linkedin.com/in/albertobasalo/",
+    },
+  },
+  angular: {
+    title: "Angular",
+    subtitle: "Aprende a desarrollar aplicaciones con Angular.",
+    cards: [
+      {
+        title: "Basic",
+        description: "Aprende a desarrollar aplicaciones con Angular.",
+      },
+      {
+        title: "Advanced",
+        description: "Aprende a desarrollar aplicaciones con React.",
+      },
+    ]
+  },
+  testing: {
+    title: "Testing",
+    subtitle: "Aprende a probar tu código.",
+    cards: [
+      {
+        title: "Jest",
+        description: "Aprende a probar tu código con Jest.",
+      },
+      {
+        title: "Cypress",
+        description: "Aprende a probar tu código con Cypress.",
+      },
+      {
+        title: "Playwright",
+        description: "Aprende a probar tu código con Playwright.",
+      },
+    ]
+  },
+  aidd: {
+    title: "Desarrollo con IA",
+    subtitle: "Cursor, Claude, Gemini, GitHub Copilot, etc. Todos son bienvenidos.",
+    cards: [
+      {
+        title: "AIDD",
+        description: "Aplica la metodología AI-Driven Development a todo el ciclo de desarrollo.",
+      },
+      {
+        title: "Agentes",
+        description: "Desarrolla y usa agentes y servicios MCP para tu proyecto.",
+      },
+    ]
+  },
+  clean: {
+    title: "Buenas prácticas",
+    subtitle: "Aprende a desarrollar un software más mantenible y escalable.",
+    cards: [
+      {
+        title: "Clean Code",
+        description: "Aprende a escribir código limpio.",
+      },
+      {
+        title: "Patrones de diseño",
+        description: "Aprende a escribir código limpio.",
+      },
+      {
+        title: "Arquitectura de software",
+        description: "Aprende a escribir código limpio.",
+      },
+    ]
+  }
+}
+---
+
+<Layout layout={FORMACION.layout}>
+  <section
+    id="hero"
+    class="container">
+    <header class="center">
+      <h1 class="color"><MatrixText text="Formación" /></h1>
+    </header>
+    <main class="center">
+      <p>{FORMACION.hero.subtitle}<BlinkCursor /></p>
+    </main>
+    {FORMACION.hero.cta && (
+      <footer class="center">
+        <a role="button" class="outline"
+          href={FORMACION.hero.cta.link}
+          target="_blank"
+          rel="noopener">
+        {FORMACION.hero.cta.text}
+        </a>
+      </footer>
+    )}
+  </section>
+  <Section section={FORMACION.angular} />
+  <Section section={FORMACION.testing} />
+  <Section section={FORMACION.aidd} />
+  <Section section={FORMACION.clean} />
+</Layout>

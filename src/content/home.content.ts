@@ -28,23 +28,27 @@ export const HOME: Home = {
   },
   services: {
     title: "¿En qué te puedo ayudar?",
-    subtitle: "Servicios para empresas, departamentos IT, academias y profesionales",
+    subtitle: "La industria del software evoluciona como nunca; pero no es magIA, es tecnología.",
     cards: [
       {
         title: "Consultoría",
         description:
           "Arquitectura de software, migraciones, refactoring, buenas prácticas, testing e IA.",
+        cta: {
+          text: "Necesito una consultoría",
+          link: "/consultoria",
+        },
       },
       {
         title: "Formación",
         description:
-          "Cursos a medida, formación en directo, o en video. Bonificada para empresas.",
+          "Cursos a medida, formación en video o en directo. Bonificada para empresas.",
+        cta: {
+          text: "Necesito formación",
+          link: "/formacion",
+        },
       },
-    ],
-    cta: {
-      text: "Conecta con mi perfil de LinkedIn",
-      link: "https://www.linkedin.com/in/albertobasalo/",
-    },
+    ]
   },
   technologies: {
     title: "Tecnologías que utilizo",
@@ -66,11 +70,7 @@ export const HOME: Home = {
         title: "Playwright",
         description: "Rapidez y versatilidad, muy integrable con herramientas de IA",
       },
-    ],
-    cta: {
-      text: "Conecta con mi perfil de LinkedIn",
-      link: "https://www.linkedin.com/in/albertobasalo/",
-    },
+    ]
   },
   aidd: {
     title: "AI-Driven Development",
@@ -90,8 +90,8 @@ export const HOME: Home = {
       }
     ],
     cta: {
-      text: "Conecta con mi perfil de LinkedIn",
-      link: "https://www.linkedin.com/in/albertobasalo/",
+      text: "Más info en AI code Academy",
+      link: "https://aicode.academy",
     },
   },
 };

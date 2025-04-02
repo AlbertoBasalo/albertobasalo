@@ -1,0 +1,117 @@
+---
+import BlinkCursor from "@components/BlinkCursor.astro";
+import MatrixText from "@components/MatrixText.astro";
+import Layout from "@layouts/Layout.astro";
+import Section from "../components/Section.astro";
+
+
+const CONSULTORIA = {
+  layout: {
+    title: "Consultoría",
+    description: "La industria del software evoluciona como nunca; pero no es magIA, es tecnología.",
+  },
+  hero: {
+    title: "Consultoría",
+    subtitle: "La industria del software evoluciona como nunca; pero no es magIA, es tecnología.",
+    cta: {
+      text: "Contacta conmigo en LinkedIn",
+      link: "https://www.linkedin.com/in/albertobasalo/",
+    },
+  } ,
+  arquitectura: {
+    title: "Arquitectura de software",
+    subtitle: "¿Nuevo proyecto? ¿Quizá un rewrite? Construye sobre una buena base.",
+    cards: [
+      {
+        title: "Frontend",
+        description: "Aplicaciones con Angular modernas y mantenibles. Gestión de estado. Micro frontends. Testing. etc.",
+      },
+      {
+        title: "Backend",
+        description: "APIs robustas y mantenibles con Express, Fastify, NestJS o Bun. Monolitos, micro-servicios, CQRS, DDD, etc.",
+      },
+    ]
+  },
+  testing: {
+    title: "Testing",
+    subtitle: "Implanta Jest, Vitest, Cypress o Playwright... y haz pruebas.",
+    cards: [
+      {
+        title: "Unit",
+        description: "La clave está en la velocidad... y en los dobles.",
+      },
+      {
+        title: "Integration",
+        description: "Prueba el comportamiento de tus módulos críticos.",
+      },
+      {
+        title: "End-to-End",
+        description: "Compórtate como un usuario y asegura su confianza.",
+      },
+    ]
+  },
+  refactoring: {
+    title: "Código legacy",
+    subtitle: "Moderniza tu código legado para hacerlo más fácil de mantener.",
+    cards: [
+      {
+        title: "Refactoring",
+        description: "El paso del tiempo no perdona ni siquiera al código. Corrige, mejora o adapta tu base de código para que siga siendo útil.",
+      },
+      {
+        title: "Migraciones",
+        description: "Actualiza tus desarrollos a las últimas versiones de tus frameworks y lenguajes.",
+      },
+    ]
+  },
+  ia: {
+    title: "AI-Driven Development",
+    subtitle: "Aumenta tu productividad y la calidad de tu código con tres agentes de IA.",
+    cards: [
+      {
+        title: "Architect",
+        description: "Briefings, PRDs, user stories, data models, etc. Incluye la IA desde el principio.",
+      },
+      {
+        title: "Builder",
+        description: "Con el contexto y las reglas de codificación adecuados, el código se escribe solo. (o casi)",
+      },
+      {
+        title: "Craftsman",
+        description: "La confianza se gana demostrando que el código funciona y es mantenible.",
+      },
+    ],
+    cta: {
+      text: "Más info sobre la metodología AI-Driven Development",
+      link: "https://aicode.academy",
+    },
+  },
+}
+---
+
+<Layout layout={CONSULTORIA.layout}>
+  <section
+    id="hero"
+    class="container">
+    <header class="center">
+      <h1 class="color"><MatrixText text="Consultoría" /></h1>
+    </header>
+    <main class="center">
+      <p>{CONSULTORIA.hero.subtitle}<BlinkCursor /></p>
+    </main>
+    {CONSULTORIA.hero.cta && (
+      <footer class="center">
+        <a role="button" class="outline"
+          href={CONSULTORIA.hero.cta.link}
+          target="_blank"
+          rel="noopener">
+        {CONSULTORIA.hero.cta.text}
+        </a>
+      </footer>
+    )}
+  </section>
+  <Section section={CONSULTORIA.arquitectura} />  
+  <Section section={CONSULTORIA.testing} />
+  <Section section={CONSULTORIA.refactoring} />
+  <Section section={CONSULTORIA.ia} />
+</Layout>

@@ -5,13 +5,13 @@ export type SectionProps = {
   title: string;
   subtitle: string;
   cards: Card[];
-  cta: Cta;
+  cta?: Cta;
 };
 
 type Card = {
   title: string;
   description: string;
-  link?: string;
+  cta?: Cta;
 };
 
 type Cta = {
@@ -36,13 +36,16 @@ const id = section.title?.toLowerCase().replace(/ /g, "-").replace(/\./g, "-").r
         <article>
           <h3><PrimaryComment/>{card.title}</h3>
           <p>{card.description}</p>
+          {card.cta && (
+            <a href={card.cta.link}>{card.cta.text}</a>
+          )}
         </article>
       ))}
     </main>
   )}  
   {section.cta && (
     <footer class="center">
-      <a href={section.cta.link} target="_blank">{section.cta.text}</a>
+      <a href={section.cta.link} role="button" class="outline" target="_blank">{section.cta.text}</a>
     </footer>
   )}
 </section>

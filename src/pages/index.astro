@@ -17,14 +17,16 @@ import Layout from "@layouts/Layout.astro";
     <main class="center">
       <p>{HOME.hero.subtitle}<BlinkCursor /></p>
     </main>
-    <footer class="center">
-      <a
-        role="button"
-        class="outline"
-        href={HOME.hero.cta.link}>
+    {HOME.hero.cta && (
+      <footer class="center">
+        <a role="button" class="outline"
+          href={HOME.hero.cta.link}
+          target="_blank"
+          rel="noopener">
         {HOME.hero.cta.text}
-      </a>
-    </footer>
+        </a>
+      </footer>
+    )}
   </section>
 
   <Section section={HOME.services} />
