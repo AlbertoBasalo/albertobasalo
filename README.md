@@ -31,6 +31,8 @@
 
 ### [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
 
+### [📹 YouTube](https://www.youtube.com/c/AlbertoBasalo71)
+
 ### [📗 Medium](https://albertobasalo.medium.com/)
 
 ### [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
