@@ -1,15 +1,28 @@
 {
   "name": "albertobasalo",
+  "description": "Web site y blog de Alberto Basalo",
+  "author": {
+    "name": "Alberto Basalo",
+    "email": "albertobasalo@aicode.academy"
+  },
   "type": "module",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "",
-    "build": "echo 'Building...'",
-    "update": "npm update --save && npm outdated",
-    "master": "git checkout master && git merge blog",
+    "dev": "astro dev",
+    "build": "astro build",
+    "serve": "bun run build && serve dist",
+    "preview": "astro preview",
+    "astro": "astro",
+    "predeploy": "bun build",
     "deploy": "git checkout production && git merge master && git push origin production && git checkout master"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@astrojs/sitemap": "^3.3.0",
+    "@picocss/pico": "^2.1.1",
+    "astro": "^5.5.5"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  }
 }
