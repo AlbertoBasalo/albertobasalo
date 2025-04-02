@@ -14,7 +14,7 @@
     "serve": "bun run build && serve dist",
     "preview": "astro preview",
     "astro": "astro",
-    "predeploy": "bun build",
+    "predeploy": "bun run build",
     "deploy": "git checkout production && git merge master && git push origin production && git checkout master"
   },
   "dependencies": {
