@@ -2,7 +2,7 @@ import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://albertobasalo.com",
+  site: "https://albertobasalo.dev",
   markdown: {
     shikiConfig: {
       theme: "dark-plus",
