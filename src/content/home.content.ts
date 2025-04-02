@@ -22,7 +22,7 @@ export const HOME: Home = {
     subtitle: "Consultoría y formación para programadores profesionales.",
     cards: [],
     cta: {
-      text: "Contacta con Alberto Basalo",
+      text: "AI code quality",
       link: "https://www.linkedin.com/in/albertobasalo/",
     },
   },

@@ -30,6 +30,7 @@
   --pico-secondary-hover-background: var(--ab-green);
   --pico-box-shadow: 0 0 1px 0 var(--pico-primary);
   --ab-theme-gray: var(--ab-dark-gray);
+  --ab-gradient-primary: linear-gradient(var(--ab-dark-blue), var(--ab-light-blue));
   color-scheme: dark;
 }
 
@@ -51,6 +52,7 @@
   --pico-secondary-hover-background: var(--ab-green);
   --pico-box-shadow: 0 0 1px 0 var(--pico-primary);
   --ab-theme-gray: var(--ab-light-gray);
+  --ab-gradient-primary: linear-gradient(var(--ab-dark-blue), var(--ab-light-blue));
   color-scheme: light;
 }
 
