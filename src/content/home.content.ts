@@ -26,17 +26,17 @@ export const HOME: Home = {
   },
   projects: {
     title: "¿En qué te puedo ayudar?",
-    subtitle: "Proyectos de Alberto Basalo",
+    subtitle: "Servicios para empresas, departamentos IT, academias y profesionales",
     cards: [
       {
         title: "Consultoría",
         description:
-          "Arquitectura de software, migración Angular, implantación IA",
+          "Arquitectura de software, migración Angular, testing con Cypress o Playwright, implantación IA",
       },
       {
         title: "Formación",
         description:
-          "Cursos de código limpio, testing, Angular y desarrollo con Inteligencia Artificial",
+          "Cursos de código limpio, testing, Angular, Express y desarrollo con Inteligencia Artificial",
       },
     ],
     cta: {
