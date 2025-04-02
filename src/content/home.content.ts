@@ -23,7 +23,7 @@ export const HOME: Home = {
     cards: [],
     cta: {
       text: "AI code quality",
-      link: "https://www.linkedin.com/in/albertobasalo/",
+      link: "",
     },
   },
   services: {

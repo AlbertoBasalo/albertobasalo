@@ -1,7 +1,6 @@
 ---
 import Layout from "@layouts/Layout.astro";
-import BlinkCursor from "../components/BlinkCursor.astro";
-import MatrixText from "../components/MatrixText.astro";
+import Hero from "../components/Hero.astro";
 import Section from "../components/Section.astro";
 
 const FORMACION = {
@@ -14,44 +13,44 @@ const FORMACION = {
     subtitle: "La industria del software evoluciona como nunca; pero no es magIA, es tecnología.",
     cta: {
       text: "Learn to code smarter",
-      link: "https://www.linkedin.com/in/albertobasalo/",
+      link: "",
     },
   },
   angular: {
     title: "Angular",
-    subtitle: "Aprende a desarrollar aplicaciones con Angular.",
+    subtitle: "Aprende a desarrollar aplicaciones de categoría empresarial con Angular.",
     cards: [
       {
         title: "Basic",
-        description: "Aprende a desarrollar aplicaciones con Angular.",
+        description: "Fundamentos del framework más usado por bancos, administraciones y multinacionales.",
       },
       {
         title: "Advanced",
-        description: "Aprende a desarrollar aplicaciones con React.",
+        description: "Escala tus desarrollos con librerías, micro-servicios y gestión avanzada de estado.",
       },
     ]
   },
   testing: {
     title: "Testing",
-    subtitle: "Aprende a probar tu código.",
+    subtitle: "Aprende a probar tu código para ganar tranquilidad.",
     cards: [
       {
         title: "Jest",
-        description: "Aprende a probar tu código con Jest.",
+        description: "Pruebas unitarias de Node, Angular y cualquier variante de JavaScript.",
       },
       {
-        title: "Cypress",
-        description: "Aprende a probar tu código con Cypress.",
+        title: "Cypress", 
+        description: "Pruebas fáciles y dev-friendly de aplicaciones web.",
       },
       {
         title: "Playwright",
-        description: "Aprende a probar tu código con Playwright.",
+        description: "Versatilidad, velocidad e integración con IA",
       },
     ]
   },
   aidd: {
     title: "Desarrollo con IA",
-    subtitle: "Cursor, Claude, Gemini, GitHub Copilot, etc. Todos son bienvenidos.",
+    subtitle: "Cursor, Claude, Gemini, GitHub Copilot, Cline... Todos son bienvenidos.",
     cards: [
       {
         title: "AIDD",
@@ -69,44 +68,45 @@ const FORMACION = {
     cards: [
       {
         title: "Clean Code",
-        description: "Aprende a escribir código limpio.",
+        description: "Los básicos para humanos y agentes: nombres, complejidad, convenios, funciones y clases. Y un poco de documentación y pruebas.",
       },
       {
         title: "Patrones de diseño",
-        description: "Aprende a escribir código limpio.",
+        description: "Evita code-smells aplicando patrones de diseño: estructurales, de comportamiento y de creación.",
       },
       {
         title: "Arquitectura de software",
-        description: "Aprende a escribir código limpio.",
+        description: "Des de las capas de un monolito modular, hasta un sistema distribuido con micro-frontend y CQRS.",
       },
     ]
+  },
+  ediciones: {
+    title: "Ediciones",
+    subtitle: "Todos los cursos se pueden bonificar por FUNDADE.",
+    cards: [
+      {
+        title: "En directo",
+        description: "Escoge horarios y días para aprender en directo. Con un temario adaptado a tus necesidades.",
+      },
+      {
+        title: "En video",
+        description: "Aprende a tu ritmo. Pero con mi ayuda en prácticas y chat de dudas.",
+      },
+    ],
+    cta: {
+      text: "Contacta conmigo en LinkedIn",
+      link: "https://www.linkedin.com/in/albertobasalo/",
+    },
   }
 }
 ---
 
 <Layout layout={FORMACION.layout}>
-  <section
-    id="hero"
-    class="container">
-    <header class="center">
-      <h1 class="color"><MatrixText text="Formación" /></h1>
-    </header>
-    <main class="center">
-      <p>{FORMACION.hero.subtitle}<BlinkCursor /></p>
-    </main>
-    {FORMACION.hero.cta && (
-      <footer class="center">
-        <a role="button" class="outline"
-          href={FORMACION.hero.cta.link}
-          target="_blank"
-          rel="noopener">
-        {FORMACION.hero.cta.text}
-        </a>
-      </footer>
-    )}
-  </section>
+  <Hero hero={FORMACION.hero} />
+
   <Section section={FORMACION.angular} />
   <Section section={FORMACION.testing} />
   <Section section={FORMACION.aidd} />
   <Section section={FORMACION.clean} />
+  <Section section={FORMACION.ediciones} />
 </Layout>
