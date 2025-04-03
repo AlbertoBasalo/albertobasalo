@@ -14,8 +14,8 @@
     "serve": "bun run build && serve dist",
     "preview": "astro preview",
     "astro": "astro",
-    "predeploy": "bun run build",
-    "deploy": "git add . && git commit -m 'Deploy' && git push origin master"
+    "preprod": "bun run build",
+    "prod": "git add . && git commit -m 'Deploy' && git push origin master"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.3.0",

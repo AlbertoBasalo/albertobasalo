@@ -17,7 +17,7 @@
 [data-theme="dark"] {
   --pico-color: white;
   --pico-background-color: black;
-  --pico-primary: var(--ab-light-blue);
+  --pico-primary: var(--ab-blue);
   --pico-primary-hover: var(--ab-blue);
   --pico-primary-background: var(--ab-light-blue);
   --pico-primary-hover-background: var(--ab-blue);
@@ -28,7 +28,7 @@
   --pico-secondary-hover: var(--ab-green);
   --pico-secondary-background: var(--ab-light-green);
   --pico-secondary-hover-background: var(--ab-green);
-  --pico-box-shadow: 0 0 1px 0 var(--pico-primary);
+  --pico-box-shadow: 0 0 2px 0 var(--pico-secondary);
   --ab-theme-gray: var(--ab-dark-gray);
   --ab-gradient-primary: linear-gradient(var(--ab-dark-blue), var(--ab-light-blue));
   color-scheme: dark;
@@ -39,18 +39,18 @@
 :root:not([data-theme="dark"]) {
   --pico-color: black;
   --pico-background-color: white;
-  --pico-primary: var(--ab-dark-blue);
+  --pico-primary: var(--ab-blue);
   --pico-primary-hover: var(--ab-blue);
-  --pico-primary-background: var(--ab-dark-blue);
+  --pico-primary-background: var(--ab-blue);
   --pico-primary-hover-background: var(--ab-blue);
   --pico-primary-inverse: white;
-  --pico-underline: var(--ab-dark-blue);
-  --pico-primary-underline: var(--ab-dark-blue);
-  --pico-secondary: var(--ab-dark-green);
+  --pico-underline: var(--ab-blue);
+  --pico-primary-underline: var(--ab-blue);
+  --pico-secondary: var(--ab-light-green);
   --pico-secondary-hover: var(--ab-green);
-  --pico-secondary-background: var(--ab-dark-green);
+  --pico-secondary-background: var(--ab-light-green);
   --pico-secondary-hover-background: var(--ab-green);
-  --pico-box-shadow: 0 0 1px 0 var(--pico-primary);
+  --pico-box-shadow: 0 0 2px 0 var(--pico-secondary);
   --ab-theme-gray: var(--ab-light-gray);
   --ab-gradient-primary: linear-gradient(var(--ab-dark-blue), var(--ab-light-blue));
   color-scheme: light;
