@@ -1,6 +1,6 @@
 <header>
   <h1 align="center"><a href="https://albertobasalo.dev" target="_blank">Alberto Basalo</a></h1>
-  <h3 align="center">Advisor and instructor for developers.</h3>
+  <h3 align="center">Consultoría y formación para programadores.</h3>
   <h4 align="center">English - Español.</h4>
   <p align="center">
    <a href="https://twitter.com/albertobasalo" target="_blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
