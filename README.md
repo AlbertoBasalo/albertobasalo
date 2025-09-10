@@ -11,17 +11,17 @@
   </p>
 </header>
 
-# ⛑️ Te puedo ayudar
+# ⛑️ Te puedo ayudar con:
+
+### 🤖 Usar AI-Driven Development para aumentar la productividad y calidad del código.
+
+### 🏗️ Arquitectura de Software ( 👔 DDD, 🧱 MFE).
 
 ### 🍋 Técnicas de Código Limpio y patrones de diseño.
 
 ### ✅ Testing unitario y e2e ( 🧪 Jest 🌲Cypress).
 
-### 🏗️ Arquitectura de Software ( 👔 DDD, 🧱 MFE).
-
 ### 🖥️ Arquitectura, refactoring, migraciones con 🅰️ Angular y 🟩 Node.
-
-### 🤖 Usar AI-Driven Development para aumentar la productividad y calidad del código.
 
 ➖
 
@@ -47,7 +47,7 @@
 
 # ©️ CODE: Featured repositories (docs and code are in English)
 
-### [🤖 AI Driven Development](https://github.com/AlbertoBasalo/aidd)
+### [🤖 AIDDbot](https://github.com/AIDDbot/AIDDbot)
 
 ### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
