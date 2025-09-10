@@ -1,7 +1,7 @@
 <header>
   <h1 align="center"><a href="https://albertobasalo.dev" target="_blank">Alberto Basalo</a></h1>
-  <h3 align="center">Productividad y calidad de código con IA.</h3>
-  <h4 align="center">Consultoría y formación.</h4>
+  <h3 align="center">AI-Driven Development Training & Consulting.</h3>
+  <h4 align="center"><a href="https://github.com/AIDDbot/AIDDbot" target="_blank">Author of AIDDbot (AI programming assitant)</a></h4>
   <p align="center">
    <a href="https://twitter.com/albertobasalo" target="_blank"><img src="https://img.shields.io/twitter/follow/albertobasalo?logo=twitter&style=for-the-badge" alt="albertobasalo-twittet-x" /></a>     
    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=albertobasalo" target="_blank"><img src="https://img.shields.io/badge/contacto-LinkedIn-blue?style=for-the-badge" alt="albertobasalo-linkedin" /></a>
