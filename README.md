@@ -29,18 +29,6 @@
 
 ### [🤖 Desarrollo con IA](https://aicode.academy/cursos/)
 
-# 📧 CONTACTO: Social networks, webs, blogs...
-
-### [✖️ **X** / Twitter](https://twitter.com/albertobasalo)
-
-### [🤝 LinkedIn](https://www.linkedin.com/in/albertobasalo/)
-
-### [📹 YouTube](https://www.youtube.com/c/AlbertoBasalo71)
-
-### [📗 Medium](https://albertobasalo.medium.com/)
-
-### [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
-
 # ©️ CODE: Featured repositories (docs and code are in English)
 
 ### [🤖 AIDDbot](https://github.com/AIDDbot/AIDDbot)
