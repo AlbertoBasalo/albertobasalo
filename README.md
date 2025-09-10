@@ -37,7 +37,7 @@
 
 ### [🚀 AstroBookings Full-stack Boot camp exercise ](https://github.com/astrobookings)
 
-### [🧑🏼‍🏫 Workshop Classroom Demos](https://github.com/CursosAlbertoBasalo)
+### [🧑🏼‍🏫 Workshops Demos Practices](https://github.com/AlbertoBasaloAcademy)
 
 ### [🅰️ Angular Modern (v17) 🧫 Laboratory](https://github.com/AlbertoBasalo/ng-lab)
 
