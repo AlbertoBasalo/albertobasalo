@@ -23,7 +23,11 @@
 
 ### 🖥️ Arquitectura, refactoring, migraciones con 🅰️ Angular y 🟩 Node.
 
-➖
+# 🧑🏼‍🎓 CURSOS
+
+### [📚 Todos los cursos](https://albertobasalo.dev/formacion/)
+
+### [🤖 Desarrollo con IA](https://aicode.academy/cursos/)
 
 # 📧 CONTACTO: Social networks, webs, blogs...
 
@@ -36,14 +40,6 @@
 ### [📗 Medium](https://albertobasalo.medium.com/)
 
 ### [🧑🏼‍💻 Tech Profile](https://albertobasalo.dev/)
-
-➖
-
-# 🧑🏼‍🎓 CURSOS: Catálogo en Español
-
-### [📚 Catálogo de cursos](https://albertobasalo.notion.site/Cursos-6bbb54cf42354a2591725158691ff051)
-
-➖
 
 # ©️ CODE: Featured repositories (docs and code are in English)
 
