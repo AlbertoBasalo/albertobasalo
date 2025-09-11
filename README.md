@@ -31,19 +31,15 @@
 
 # ©️ CODE: Featured repositories (docs and code are in English)
 
+### [🧑🏼‍🏫 Academy](https://github.com/AlbertoBasaloAcademy)
+
+### [🧬 Laboratories](https://github.com/AlbertoBasaloLaboratory)
+
 ### [🤖 AIDDbot](https://github.com/AIDDbot/AIDDbot)
 
 ### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
 ### [🚀 AstroBookings Full-stack Boot camp exercise ](https://github.com/astrobookings)
-
-### [🧑🏼‍🏫 Workshops Demos Practices](https://github.com/AlbertoBasaloAcademy)
-
-### [🅰️ Angular Modern (v17) 🧫 Laboratory](https://github.com/AlbertoBasalo/ng-lab)
-
-### [🌲 Cypress 🧫 Laboratory](https://github.com/AlbertoBasalo/cy-lab)
-
-### [🦀 Rust 🧫 Laboratory](https://github.com/AlbertoBasalo/rs-lab)
 
 ### [🧰 VS code settings, 🪛 extensions and ✂️ tool configurations](https://github.com/AlbertoBasalo/dotfiles)
 
