@@ -31,11 +31,15 @@
 
 # ©️ CODE: Featured repositories (docs and code are in English)
 
+## Organizations
+
 ### [🧑🏼‍🏫 Academy](https://github.com/AlbertoBasaloAcademy)
 
-### [🧬 Laboratories](https://github.com/AlbertoBasaloLaboratory)
+### [🧬 Laboratories](https://github.com/AlbertoBasaloLabs)
 
 ### [🤖 AIDDbot](https://github.com/AIDDbot/AIDDbot)
+
+## Featured Projects
 
 ### [🥖 APIbun A fast JSON server for devs](https://github.com/AlbertoBasalo/api_bun)
 
