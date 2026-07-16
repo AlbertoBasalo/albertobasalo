@@ -25,6 +25,8 @@
 
 # 🧑🏼‍🎓 CURSOS
 
+### [📚 Spec-Driven Development]([https://albertobasalo.dev/formacion/](https://www.udemy.com/course/spec-driven-development-inteligente/?referralCode=D67B0EB2BD294D29A5B7))
+
 ### [📚 Todos los cursos](https://albertobasalo.dev/formacion/)
 
 ### [🤖 Desarrollo con IA](https://aicode.academy/cursos/)
