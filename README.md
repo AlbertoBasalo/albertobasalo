@@ -90,15 +90,6 @@ Metodología para usar IA durante todo el ciclo de desarrollo sin perder control
 | [**AstroBookings**](https://github.com/astrobookings) | Full-stack boot camp exercise |
 | [**dotfiles**](https://github.com/AlbertoBasalo/dotfiles) | VS Code settings, extensions and tool configurations |
 
----
-
-## // GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertobasalo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false#gh-light-mode-only" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertobasalo&layout=compact&theme=default&hide_border=true&langs_count=8#gh-light-mode-only" alt="Top languages" height="165" />
-</p>
-
 <p align="center">
   <sub>© Alberto Basalo · <a href="https://albertobasalo.dev/">albertobasalo.dev</a></sub>
 </p>
