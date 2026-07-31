@@ -64,9 +64,9 @@ Metodología para usar IA durante todo el ciclo de desarrollo sin perder control
 
 | Curso | Plataforma |
 | --- | --- |
-| [**Programación Inteligente**](https://aicode.academy/cursos/) — desarrollo profesional con IA | [AI Code Academy](https://aicode.academy/cursos/) · [Udemy](https://www.udemy.com/user/alberto-basalo/) · [TrainingIT](https://albertobasalo.dev/formacion/) |
-| [**Spec-Driven Development Inteligente**](https://www.udemy.com/course/spec-driven-development-inteligente/?referralCode=D67B0EB2BD294D29A5B7) | Udemy |
-| **Ingeniería Inteligente** | Próximamente |
+| **Programación Inteligente** |  [Udemy](https://www.udemy.com/course/programacion-inteligente-desarrollo-profesional-con-ia/?referralCode=C007FD1664EEB37226B8) · [TrainingIT](https://www.trainingit.es/producto/programacion-inteligente-ia/) |
+| **Spec-Driven Development Inteligente** | [Udemy](https://www.udemy.com/course/spec-driven-development-inteligente/?referralCode=D67B0EB2BD294D29A5B7) |
+| **Ingeniería Inteligente** | [_Próximamente_](https://aicode.academy/cursos/ingenieria_inteligente/) |
 
 ---
 
@@ -80,12 +80,12 @@ Metodología para usar IA durante todo el ciclo de desarrollo sin perder control
 | --- | --- |
 | [**AlbertoBasaloAcademy**](https://github.com/AlbertoBasaloAcademy) | Training materials and course exercises |
 | [**AlbertoBasaloLabs**](https://github.com/AlbertoBasaloLabs) | Experiments and prototypes |
-| [**AIDDbot**](https://github.com/AIDDbot/AIDDbot) | AI programming assistant for AI-Driven Development |
 
 ### Featured projects
 
 | | |
 | --- | --- |
+| [**AIDDbot**](https://github.com/AIDDbot/AIDDbot) | AI programming assistant for AI-Driven Development |
 | [**APIbun**](https://github.com/AlbertoBasalo/api_bun) | A fast JSON server for devs |
 | [**AstroBookings**](https://github.com/astrobookings) | Full-stack boot camp exercise |
 | [**dotfiles**](https://github.com/AlbertoBasalo/dotfiles) | VS Code settings, extensions and tool configurations |
